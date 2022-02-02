@@ -1968,4 +1968,7 @@ form label {
 .js .animate-box {
   opacity: 0;
 }
+.testimony-slide img{
+object-fit: cover;
+}
 /*# sourceMappingURL=style.css.map */

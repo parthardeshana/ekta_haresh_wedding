@@ -1850,3 +1850,6 @@ form label {
 .timeline-heading span{
   margin-bottom: 0 !important;
 }
+.testimony-slide img{
+object-fit: cover;
+}
